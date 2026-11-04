@@ -1,0 +1,6 @@
+{
+  "name": "Brain Battle - Real-time 1v1 Multiplayer Brain Gaming Platform",
+  "description": "Challenge Your Mind. Defeat Your Rival. High-octane competitive brain games with real-time 1v1 matchmaking, logic, memory, math, and reaction challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
